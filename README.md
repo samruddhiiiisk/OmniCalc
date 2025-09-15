@@ -1,6 +1,6 @@
-# Calculator-Pro
+# OmniCalc
 
-Calculator-Pro is a comprehensive web application offering a suite of calculators and conversion tools, including an AI-powered assistant. It is built with React, TypeScript, Tailwind CSS, and features a Python backend for AI functionalities.
+OmniCalc is a comprehensive web application offering a suite of calculators and conversion tools, including an AI-powered assistant. It is built with React, TypeScript, Tailwind CSS, and features a Python backend for AI functionalities.
 
 🔗 Live Demo
 
